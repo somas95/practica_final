@@ -1,0 +1,19 @@
+Electrón
+e
+0.511e6	-1	0.5
+Fermiones	Leptones	I
+Reino unido
+1896
+Interacción débil
+W+
+80.4e9	+1	1
+Bosones	Gauge	?
+
+
+-1
+Quark Cim
+t
+173.07e9	+2/3	0.5
+Fermiones	Quarks	III
+Estados Unidos
+1995
